@@ -4,9 +4,9 @@ table, td, th {
 
 table {
   border-collapse: collapse;
-  width: 100%;
+  width: 70%;
+  height: auto;
 }
-
-th {
-  height: 70px;
+td{
+  text-align: center;
 }
