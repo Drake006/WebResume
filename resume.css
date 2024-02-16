@@ -1,6 +1,11 @@
-<!DOCTYPE html>
-<html>
+
 table {
-  border-spacing: 30px;
+  border-collapse: collapse;
+  width: 100%;
 }
-</html>
+
+th, td {
+  border: 1px solid #ddd;
+  padding: 10px; /* Adjust this value to set the desired spacing */
+  text-align: left;
+}
